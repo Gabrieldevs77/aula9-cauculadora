@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aula9-cauculadora/1.0.0": {
+        "runtime": {
+          "aula9-cauculadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula9-cauculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

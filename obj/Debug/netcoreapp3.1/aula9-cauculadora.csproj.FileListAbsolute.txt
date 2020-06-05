@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\obj\Debug\netcoreapp3.1\aula9-cauculadora.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\obj\Debug\netcoreapp3.1\aula9-cauculadora.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\obj\Debug\netcoreapp3.1\aula9-cauculadora.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\obj\Debug\netcoreapp3.1\aula9-cauculadora.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\bin\Debug\netcoreapp3.1\aula9-cauculadora.exe
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\bin\Debug\netcoreapp3.1\aula9-cauculadora.deps.json
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\bin\Debug\netcoreapp3.1\aula9-cauculadora.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\bin\Debug\netcoreapp3.1\aula9-cauculadora.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\bin\Debug\netcoreapp3.1\aula9-cauculadora.dll
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\bin\Debug\netcoreapp3.1\aula9-cauculadora.pdb
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\obj\Debug\netcoreapp3.1\aula9-cauculadora.dll
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\obj\Debug\netcoreapp3.1\aula9-cauculadora.pdb
+C:\Users\gabriel\Documents\GitHub\aula9-cauculadora\obj\Debug\netcoreapp3.1\aula9-cauculadora.genruntimeconfig.cache
